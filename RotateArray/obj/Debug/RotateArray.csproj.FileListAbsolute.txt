@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\RotateArray\bin\Debug\RotateArray.exe.config
+C:\Stuff\HashTable\RotateArray\bin\Debug\RotateArray.exe
+C:\Stuff\HashTable\RotateArray\bin\Debug\RotateArray.pdb
+C:\Stuff\HashTable\RotateArray\obj\Debug\RotateArray.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\RotateArray\obj\Debug\RotateArray.exe
+C:\Stuff\HashTable\RotateArray\obj\Debug\RotateArray.pdb

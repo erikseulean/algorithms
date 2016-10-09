@@ -1,0 +1,10 @@
+E:\Projects\Algorithms\HashTable\SortString\bin\Debug\SortString.dll
+E:\Projects\Algorithms\HashTable\SortString\bin\Debug\SortString.pdb
+E:\Projects\Algorithms\HashTable\SortString\obj\Debug\StringUniqueCharacters.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\SortString\obj\Debug\SortString.dll
+E:\Projects\Algorithms\HashTable\SortString\obj\Debug\SortString.pdb
+C:\Stuff\HashTable\SortString\bin\Debug\SortString.dll
+C:\Stuff\HashTable\SortString\bin\Debug\SortString.pdb
+C:\Stuff\HashTable\SortString\obj\Debug\StringUniqueCharacters.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\SortString\obj\Debug\SortString.dll
+C:\Stuff\HashTable\SortString\obj\Debug\SortString.pdb

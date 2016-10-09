@@ -1,0 +1,10 @@
+E:\Projects\Algorithms\HashTable\BFS\bin\Debug\BFS.dll
+E:\Projects\Algorithms\HashTable\BFS\bin\Debug\BFS.pdb
+E:\Projects\Algorithms\HashTable\BFS\obj\Debug\BFS.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\BFS\obj\Debug\BFS.dll
+E:\Projects\Algorithms\HashTable\BFS\obj\Debug\BFS.pdb
+C:\Stuff\HashTable\BFS\bin\Debug\BFS.dll
+C:\Stuff\HashTable\BFS\bin\Debug\BFS.pdb
+C:\Stuff\HashTable\BFS\obj\Debug\BFS.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\BFS\obj\Debug\BFS.dll
+C:\Stuff\HashTable\BFS\obj\Debug\BFS.pdb

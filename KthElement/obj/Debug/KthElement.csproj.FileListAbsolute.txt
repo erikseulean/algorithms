@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\KthElement\bin\Debug\KthElement.exe.config
+E:\Projects\Algorithms\HashTable\KthElement\obj\Debug\KthElement.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\KthElement\bin\Debug\KthElement.exe
+E:\Projects\Algorithms\HashTable\KthElement\bin\Debug\KthElement.pdb
+E:\Projects\Algorithms\HashTable\KthElement\obj\Debug\KthElement.exe
+E:\Projects\Algorithms\HashTable\KthElement\obj\Debug\KthElement.pdb
+C:\Stuff\HashTable\KthElement\bin\Debug\KthElement.exe.config
+C:\Stuff\HashTable\KthElement\bin\Debug\KthElement.exe
+C:\Stuff\HashTable\KthElement\bin\Debug\KthElement.pdb
+C:\Stuff\HashTable\KthElement\obj\Debug\KthElement.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\KthElement\obj\Debug\KthElement.exe
+C:\Stuff\HashTable\KthElement\obj\Debug\KthElement.pdb

@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\ParallelProgramming\bin\Debug\ParallelProgramming.exe.config
+E:\Projects\Algorithms\HashTable\ParallelProgramming\bin\Debug\ParallelProgramming.exe
+E:\Projects\Algorithms\HashTable\ParallelProgramming\bin\Debug\ParallelProgramming.pdb
+E:\Projects\Algorithms\HashTable\ParallelProgramming\obj\Debug\ParallelProgramming.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\ParallelProgramming\obj\Debug\ParallelProgramming.exe
+E:\Projects\Algorithms\HashTable\ParallelProgramming\obj\Debug\ParallelProgramming.pdb
+C:\Stuff\HashTable\ParallelProgramming\bin\Debug\ParallelProgramming.exe.config
+C:\Stuff\HashTable\ParallelProgramming\bin\Debug\ParallelProgramming.exe
+C:\Stuff\HashTable\ParallelProgramming\bin\Debug\ParallelProgramming.pdb
+C:\Stuff\HashTable\ParallelProgramming\obj\Debug\ParallelProgramming.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\ParallelProgramming\obj\Debug\ParallelProgramming.exe
+C:\Stuff\HashTable\ParallelProgramming\obj\Debug\ParallelProgramming.pdb

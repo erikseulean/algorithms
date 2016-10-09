@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\KnuthMorrisPrath\bin\Debug\KnuthMorrisPrath.exe.config
+E:\Projects\Algorithms\HashTable\KnuthMorrisPrath\obj\Debug\KnuthMorrisPrath.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\KnuthMorrisPrath\bin\Debug\KnuthMorrisPrath.exe
+E:\Projects\Algorithms\HashTable\KnuthMorrisPrath\bin\Debug\KnuthMorrisPrath.pdb
+E:\Projects\Algorithms\HashTable\KnuthMorrisPrath\obj\Debug\KnuthMorrisPrath.exe
+E:\Projects\Algorithms\HashTable\KnuthMorrisPrath\obj\Debug\KnuthMorrisPrath.pdb
+C:\Stuff\HashTable\KnuthMorrisPrath\bin\Debug\KnuthMorrisPrath.exe.config
+C:\Stuff\HashTable\KnuthMorrisPrath\bin\Debug\KnuthMorrisPrath.exe
+C:\Stuff\HashTable\KnuthMorrisPrath\bin\Debug\KnuthMorrisPrath.pdb
+C:\Stuff\HashTable\KnuthMorrisPrath\obj\Debug\KnuthMorrisPrath.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\KnuthMorrisPrath\obj\Debug\KnuthMorrisPrath.exe
+C:\Stuff\HashTable\KnuthMorrisPrath\obj\Debug\KnuthMorrisPrath.pdb

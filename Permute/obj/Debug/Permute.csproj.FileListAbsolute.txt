@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\Permute\bin\Debug\Permute.exe.config
+C:\Stuff\HashTable\Permute\bin\Debug\Permute.exe
+C:\Stuff\HashTable\Permute\bin\Debug\Permute.pdb
+C:\Stuff\HashTable\Permute\obj\Debug\Permute.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\Permute\obj\Debug\Permute.exe
+C:\Stuff\HashTable\Permute\obj\Debug\Permute.pdb

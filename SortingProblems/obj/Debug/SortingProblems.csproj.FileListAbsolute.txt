@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\SortingProblems\bin\Debug\SortingProblems.exe.config
+E:\Projects\Algorithms\HashTable\SortingProblems\bin\Debug\SortingProblems.exe
+E:\Projects\Algorithms\HashTable\SortingProblems\bin\Debug\SortingProblems.pdb
+E:\Projects\Algorithms\HashTable\SortingProblems\obj\Debug\SortingProblems.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\SortingProblems\obj\Debug\SortingProblems.exe
+E:\Projects\Algorithms\HashTable\SortingProblems\obj\Debug\SortingProblems.pdb
+C:\Stuff\HashTable\SortingProblems\bin\Debug\SortingProblems.exe.config
+C:\Stuff\HashTable\SortingProblems\bin\Debug\SortingProblems.exe
+C:\Stuff\HashTable\SortingProblems\bin\Debug\SortingProblems.pdb
+C:\Stuff\HashTable\SortingProblems\obj\Debug\SortingProblems.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\SortingProblems\obj\Debug\SortingProblems.exe
+C:\Stuff\HashTable\SortingProblems\obj\Debug\SortingProblems.pdb

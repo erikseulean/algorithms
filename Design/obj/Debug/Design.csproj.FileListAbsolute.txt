@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\Design\bin\Debug\Design.exe.config
+C:\Stuff\HashTable\Design\bin\Debug\Design.exe
+C:\Stuff\HashTable\Design\bin\Debug\Design.pdb
+C:\Stuff\HashTable\Design\obj\Debug\Design.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\Design\obj\Debug\Design.exe
+C:\Stuff\HashTable\Design\obj\Debug\Design.pdb

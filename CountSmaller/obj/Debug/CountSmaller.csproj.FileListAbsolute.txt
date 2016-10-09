@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\CountSmaller\bin\Debug\CountSmaller.exe.config
+C:\Stuff\HashTable\CountSmaller\obj\Debug\CountSmaller.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\CountSmaller\bin\Debug\CountSmaller.exe
+C:\Stuff\HashTable\CountSmaller\bin\Debug\CountSmaller.pdb
+C:\Stuff\HashTable\CountSmaller\obj\Debug\CountSmaller.exe
+C:\Stuff\HashTable\CountSmaller\obj\Debug\CountSmaller.pdb

@@ -1,0 +1,9 @@
+E:\Projects\Algorithms\HashTable\TreeProblems\bin\Debug\TreeProblems.dll
+E:\Projects\Algorithms\HashTable\TreeProblems\bin\Debug\TreeProblems.pdb
+E:\Projects\Algorithms\HashTable\TreeProblems\obj\Debug\TreeProblems.dll
+E:\Projects\Algorithms\HashTable\TreeProblems\obj\Debug\TreeProblems.pdb
+C:\Stuff\HashTable\TreeProblems\bin\Debug\TreeProblems.dll
+C:\Stuff\HashTable\TreeProblems\bin\Debug\TreeProblems.pdb
+C:\Stuff\HashTable\TreeProblems\obj\Debug\TreeProblems.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\TreeProblems\obj\Debug\TreeProblems.dll
+C:\Stuff\HashTable\TreeProblems\obj\Debug\TreeProblems.pdb

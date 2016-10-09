@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\LinkedListK\bin\Debug\LinkedListK.exe.config
+C:\Stuff\HashTable\LinkedListK\bin\Debug\LinkedListK.exe
+C:\Stuff\HashTable\LinkedListK\bin\Debug\LinkedListK.pdb
+C:\Stuff\HashTable\LinkedListK\obj\Debug\LinkedListK.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\LinkedListK\obj\Debug\LinkedListK.exe
+C:\Stuff\HashTable\LinkedListK\obj\Debug\LinkedListK.pdb

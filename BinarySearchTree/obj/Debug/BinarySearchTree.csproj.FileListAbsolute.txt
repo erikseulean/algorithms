@@ -1,0 +1,14 @@
+E:\Projects\Algorithms\HashTable\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+E:\Projects\Algorithms\HashTable\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+E:\Projects\Algorithms\HashTable\BinarySearchTree\bin\Debug\SetOfStacks.dll
+E:\Projects\Algorithms\HashTable\BinarySearchTree\bin\Debug\SetOfStacks.pdb
+E:\Projects\Algorithms\HashTable\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+E:\Projects\Algorithms\HashTable\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+C:\Stuff\HashTable\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+C:\Stuff\HashTable\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Stuff\HashTable\BinarySearchTree\bin\Debug\SetOfStacks.dll
+C:\Stuff\HashTable\BinarySearchTree\bin\Debug\SetOfStacks.pdb
+C:\Stuff\HashTable\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+C:\Stuff\HashTable\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\CareerCup\bin\Debug\CareerCup.exe.config
+E:\Projects\Algorithms\HashTable\CareerCup\bin\Debug\CareerCup.exe
+E:\Projects\Algorithms\HashTable\CareerCup\bin\Debug\CareerCup.pdb
+E:\Projects\Algorithms\HashTable\CareerCup\obj\Debug\CareerCup.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\CareerCup\obj\Debug\CareerCup.exe
+E:\Projects\Algorithms\HashTable\CareerCup\obj\Debug\CareerCup.pdb
+C:\Stuff\HashTable\CareerCup\bin\Debug\CareerCup.exe.config
+C:\Stuff\HashTable\CareerCup\bin\Debug\CareerCup.exe
+C:\Stuff\HashTable\CareerCup\bin\Debug\CareerCup.pdb
+C:\Stuff\HashTable\CareerCup\obj\Debug\CareerCup.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\CareerCup\obj\Debug\CareerCup.exe
+C:\Stuff\HashTable\CareerCup\obj\Debug\CareerCup.pdb

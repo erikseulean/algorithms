@@ -1,0 +1,10 @@
+E:\Projects\Algorithms\HashTable\LinkedList\bin\Debug\LinkedList.dll
+E:\Projects\Algorithms\HashTable\LinkedList\bin\Debug\LinkedList.pdb
+E:\Projects\Algorithms\HashTable\LinkedList\obj\Debug\LinkedList.dll
+E:\Projects\Algorithms\HashTable\LinkedList\obj\Debug\LinkedList.pdb
+E:\Projects\Algorithms\HashTable\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\LinkedList\bin\Debug\LinkedList.dll
+C:\Stuff\HashTable\LinkedList\bin\Debug\LinkedList.pdb
+C:\Stuff\HashTable\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\LinkedList\obj\Debug\LinkedList.dll
+C:\Stuff\HashTable\LinkedList\obj\Debug\LinkedList.pdb

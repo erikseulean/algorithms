@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\HardProblems\bin\Debug\HardProblems.exe.config
+E:\Projects\Algorithms\HashTable\HardProblems\bin\Debug\HardProblems.exe
+E:\Projects\Algorithms\HashTable\HardProblems\bin\Debug\HardProblems.pdb
+E:\Projects\Algorithms\HashTable\HardProblems\obj\Debug\HardProblems.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\HardProblems\obj\Debug\HardProblems.exe
+E:\Projects\Algorithms\HashTable\HardProblems\obj\Debug\HardProblems.pdb
+C:\Stuff\HashTable\HardProblems\bin\Debug\HardProblems.exe.config
+C:\Stuff\HashTable\HardProblems\bin\Debug\HardProblems.exe
+C:\Stuff\HashTable\HardProblems\bin\Debug\HardProblems.pdb
+C:\Stuff\HashTable\HardProblems\obj\Debug\HardProblems.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\HardProblems\obj\Debug\HardProblems.exe
+C:\Stuff\HashTable\HardProblems\obj\Debug\HardProblems.pdb

@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\CSharpParticularities\bin\Debug\CSharpParticularities.exe.config
+C:\Stuff\HashTable\CSharpParticularities\bin\Debug\CSharpParticularities.exe
+C:\Stuff\HashTable\CSharpParticularities\bin\Debug\CSharpParticularities.pdb
+C:\Stuff\HashTable\CSharpParticularities\obj\Debug\CSharpParticularities.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\CSharpParticularities\obj\Debug\CSharpParticularities.exe
+C:\Stuff\HashTable\CSharpParticularities\obj\Debug\CSharpParticularities.pdb

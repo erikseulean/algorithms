@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\GeneralizationOfMaxDifference\bin\Debug\GeneralizationOfMaxDifference.exe.config
+C:\Stuff\HashTable\GeneralizationOfMaxDifference\bin\Debug\GeneralizationOfMaxDifference.exe
+C:\Stuff\HashTable\GeneralizationOfMaxDifference\bin\Debug\GeneralizationOfMaxDifference.pdb
+C:\Stuff\HashTable\GeneralizationOfMaxDifference\obj\Debug\GeneralizationOfMaxDifference.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\GeneralizationOfMaxDifference\obj\Debug\GeneralizationOfMaxDifference.exe
+C:\Stuff\HashTable\GeneralizationOfMaxDifference\obj\Debug\GeneralizationOfMaxDifference.pdb

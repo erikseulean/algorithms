@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\GreedyStu\bin\Debug\GreedyStu.exe.config
+C:\Stuff\HashTable\GreedyStu\bin\Debug\GreedyStu.exe
+C:\Stuff\HashTable\GreedyStu\bin\Debug\GreedyStu.pdb
+C:\Stuff\HashTable\GreedyStu\obj\Debug\Greedy.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\GreedyStu\obj\Debug\GreedyStu.exe
+C:\Stuff\HashTable\GreedyStu\obj\Debug\GreedyStu.pdb

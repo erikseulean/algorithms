@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Stuff\HashTable\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Stuff\HashTable\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Stuff\HashTable\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Stuff\HashTable\BinarySearch\obj\Debug\BinarySearch.pdb

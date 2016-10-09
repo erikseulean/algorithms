@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\StringRemoveAndAdd\bin\Debug\StringRemoveAndAdd.exe.config
+C:\Stuff\HashTable\StringRemoveAndAdd\obj\Debug\StringRemoveAndAdd.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\StringRemoveAndAdd\bin\Debug\StringRemoveAndAdd.exe
+C:\Stuff\HashTable\StringRemoveAndAdd\bin\Debug\StringRemoveAndAdd.pdb
+C:\Stuff\HashTable\StringRemoveAndAdd\obj\Debug\StringRemoveAndAdd.exe
+C:\Stuff\HashTable\StringRemoveAndAdd\obj\Debug\StringRemoveAndAdd.pdb

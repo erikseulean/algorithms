@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\SumModK\bin\Debug\SumModK.exe.config
+C:\Stuff\HashTable\SumModK\bin\Debug\SumModK.exe
+C:\Stuff\HashTable\SumModK\bin\Debug\SumModK.pdb
+C:\Stuff\HashTable\SumModK\obj\Debug\SumModK.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\SumModK\obj\Debug\SumModK.exe
+C:\Stuff\HashTable\SumModK\obj\Debug\SumModK.pdb

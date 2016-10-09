@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\ModerateProblems\bin\Debug\ModerateProblems.exe.config
+E:\Projects\Algorithms\HashTable\ModerateProblems\bin\Debug\ModerateProblems.exe
+E:\Projects\Algorithms\HashTable\ModerateProblems\bin\Debug\ModerateProblems.pdb
+E:\Projects\Algorithms\HashTable\ModerateProblems\obj\Debug\ModerateProblems.exe
+E:\Projects\Algorithms\HashTable\ModerateProblems\obj\Debug\ModerateProblems.pdb
+E:\Projects\Algorithms\HashTable\ModerateProblems\obj\Debug\ModerateProblems.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\ModerateProblems\bin\Debug\ModerateProblems.exe.config
+C:\Stuff\HashTable\ModerateProblems\bin\Debug\ModerateProblems.exe
+C:\Stuff\HashTable\ModerateProblems\bin\Debug\ModerateProblems.pdb
+C:\Stuff\HashTable\ModerateProblems\obj\Debug\ModerateProblems.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\ModerateProblems\obj\Debug\ModerateProblems.exe
+C:\Stuff\HashTable\ModerateProblems\obj\Debug\ModerateProblems.pdb

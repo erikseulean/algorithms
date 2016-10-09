@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\LinkedListCheck\bin\Debug\LinkedListCheck.exe.config
+C:\Stuff\HashTable\LinkedListCheck\bin\Debug\LinkedListCheck.exe
+C:\Stuff\HashTable\LinkedListCheck\bin\Debug\LinkedListCheck.pdb
+C:\Stuff\HashTable\LinkedListCheck\obj\Debug\LinkedListCheck.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\LinkedListCheck\obj\Debug\LinkedListCheck.exe
+C:\Stuff\HashTable\LinkedListCheck\obj\Debug\LinkedListCheck.pdb

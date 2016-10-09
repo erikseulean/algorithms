@@ -1,0 +1,11 @@
+E:\Projects\Algorithms\HashTable\SortStack\bin\Debug\SortStack.exe.config
+E:\Projects\Algorithms\HashTable\SortStack\bin\Debug\SortStack.exe
+E:\Projects\Algorithms\HashTable\SortStack\bin\Debug\SortStack.pdb
+E:\Projects\Algorithms\HashTable\SortStack\obj\Debug\SortStack.exe
+E:\Projects\Algorithms\HashTable\SortStack\obj\Debug\SortStack.pdb
+C:\Stuff\HashTable\SortStack\bin\Debug\SortStack.exe.config
+C:\Stuff\HashTable\SortStack\bin\Debug\SortStack.exe
+C:\Stuff\HashTable\SortStack\bin\Debug\SortStack.pdb
+C:\Stuff\HashTable\SortStack\obj\Debug\SortStack.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\SortStack\obj\Debug\SortStack.exe
+C:\Stuff\HashTable\SortStack\obj\Debug\SortStack.pdb

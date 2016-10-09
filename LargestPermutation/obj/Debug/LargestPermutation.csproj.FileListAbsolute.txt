@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\LargestPermutation\bin\Debug\LargestPermutation.exe.config
+C:\Stuff\HashTable\LargestPermutation\bin\Debug\LargestPermutation.exe
+C:\Stuff\HashTable\LargestPermutation\bin\Debug\LargestPermutation.pdb
+C:\Stuff\HashTable\LargestPermutation\obj\Debug\LargestPermutation.exe
+C:\Stuff\HashTable\LargestPermutation\obj\Debug\LargestPermutation.pdb
+C:\Stuff\HashTable\LargestPermutation\obj\Debug\LargestPermutation.csprojResolveAssemblyReference.cache

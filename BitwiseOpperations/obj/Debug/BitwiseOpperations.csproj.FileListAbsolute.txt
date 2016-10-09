@@ -1,0 +1,11 @@
+E:\Projects\Algorithms\HashTable\BitwiseOpperations\bin\Debug\BitwiseOpperations.exe.config
+E:\Projects\Algorithms\HashTable\BitwiseOpperations\bin\Debug\BitwiseOpperations.exe
+E:\Projects\Algorithms\HashTable\BitwiseOpperations\bin\Debug\BitwiseOpperations.pdb
+E:\Projects\Algorithms\HashTable\BitwiseOpperations\obj\Debug\BitwiseOpperations.exe
+E:\Projects\Algorithms\HashTable\BitwiseOpperations\obj\Debug\BitwiseOpperations.pdb
+C:\Stuff\HashTable\BitwiseOpperations\bin\Debug\BitwiseOpperations.exe.config
+C:\Stuff\HashTable\BitwiseOpperations\bin\Debug\BitwiseOpperations.exe
+C:\Stuff\HashTable\BitwiseOpperations\bin\Debug\BitwiseOpperations.pdb
+C:\Stuff\HashTable\BitwiseOpperations\obj\Debug\BitwiseOpperations.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\BitwiseOpperations\obj\Debug\BitwiseOpperations.exe
+C:\Stuff\HashTable\BitwiseOpperations\obj\Debug\BitwiseOpperations.pdb

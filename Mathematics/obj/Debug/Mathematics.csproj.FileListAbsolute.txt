@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\Mathematics\bin\Debug\Mathematics.exe.config
+E:\Projects\Algorithms\HashTable\Mathematics\bin\Debug\Mathematics.exe
+E:\Projects\Algorithms\HashTable\Mathematics\bin\Debug\Mathematics.pdb
+E:\Projects\Algorithms\HashTable\Mathematics\obj\Debug\Mathematics.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\Mathematics\obj\Debug\Mathematics.exe
+E:\Projects\Algorithms\HashTable\Mathematics\obj\Debug\Mathematics.pdb
+C:\Stuff\HashTable\Mathematics\bin\Debug\Mathematics.exe.config
+C:\Stuff\HashTable\Mathematics\bin\Debug\Mathematics.exe
+C:\Stuff\HashTable\Mathematics\bin\Debug\Mathematics.pdb
+C:\Stuff\HashTable\Mathematics\obj\Debug\Mathematics.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\Mathematics\obj\Debug\Mathematics.exe
+C:\Stuff\HashTable\Mathematics\obj\Debug\Mathematics.pdb

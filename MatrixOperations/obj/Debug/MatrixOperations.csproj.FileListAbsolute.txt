@@ -1,0 +1,10 @@
+E:\Projects\Algorithms\HashTable\MatrixOperations\bin\Debug\MatrixOperations.dll
+E:\Projects\Algorithms\HashTable\MatrixOperations\bin\Debug\MatrixOperations.pdb
+E:\Projects\Algorithms\HashTable\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\MatrixOperations\obj\Debug\MatrixOperations.dll
+E:\Projects\Algorithms\HashTable\MatrixOperations\obj\Debug\MatrixOperations.pdb
+C:\Stuff\HashTable\MatrixOperations\bin\Debug\MatrixOperations.dll
+C:\Stuff\HashTable\MatrixOperations\bin\Debug\MatrixOperations.pdb
+C:\Stuff\HashTable\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\MatrixOperations\obj\Debug\MatrixOperations.dll
+C:\Stuff\HashTable\MatrixOperations\obj\Debug\MatrixOperations.pdb

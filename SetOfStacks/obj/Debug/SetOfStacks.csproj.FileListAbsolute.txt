@@ -1,0 +1,10 @@
+E:\Projects\Algorithms\HashTable\SetOfStacks\bin\Debug\SetOfStacks.dll
+E:\Projects\Algorithms\HashTable\SetOfStacks\bin\Debug\SetOfStacks.pdb
+E:\Projects\Algorithms\HashTable\SetOfStacks\obj\Debug\SetOfStacks.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\SetOfStacks\obj\Debug\SetOfStacks.dll
+E:\Projects\Algorithms\HashTable\SetOfStacks\obj\Debug\SetOfStacks.pdb
+C:\Stuff\HashTable\SetOfStacks\bin\Debug\SetOfStacks.dll
+C:\Stuff\HashTable\SetOfStacks\bin\Debug\SetOfStacks.pdb
+C:\Stuff\HashTable\SetOfStacks\obj\Debug\SetOfStacks.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\SetOfStacks\obj\Debug\SetOfStacks.dll
+C:\Stuff\HashTable\SetOfStacks\obj\Debug\SetOfStacks.pdb

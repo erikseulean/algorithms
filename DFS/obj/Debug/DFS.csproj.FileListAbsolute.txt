@@ -1,0 +1,9 @@
+E:\Projects\Algorithms\HashTable\DFS\bin\Debug\DFS.dll
+E:\Projects\Algorithms\HashTable\DFS\bin\Debug\DFS.pdb
+E:\Projects\Algorithms\HashTable\DFS\obj\Debug\DFS.dll
+E:\Projects\Algorithms\HashTable\DFS\obj\Debug\DFS.pdb
+C:\Stuff\HashTable\DFS\bin\Debug\DFS.dll
+C:\Stuff\HashTable\DFS\bin\Debug\DFS.pdb
+C:\Stuff\HashTable\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\DFS\obj\Debug\DFS.dll
+C:\Stuff\HashTable\DFS\obj\Debug\DFS.pdb

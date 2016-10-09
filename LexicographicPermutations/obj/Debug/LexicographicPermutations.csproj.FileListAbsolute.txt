@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\LexicographicPermutations\bin\Debug\LexicographicPermutations.exe.config
+C:\Stuff\HashTable\LexicographicPermutations\bin\Debug\LexicographicPermutations.exe
+C:\Stuff\HashTable\LexicographicPermutations\bin\Debug\LexicographicPermutations.pdb
+C:\Stuff\HashTable\LexicographicPermutations\obj\Debug\LexicographicPermutations.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\LexicographicPermutations\obj\Debug\LexicographicPermutations.exe
+C:\Stuff\HashTable\LexicographicPermutations\obj\Debug\LexicographicPermutations.pdb

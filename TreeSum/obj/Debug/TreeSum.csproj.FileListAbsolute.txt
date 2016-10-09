@@ -1,0 +1,10 @@
+E:\Projects\Algorithms\HashTable\TreeSum\bin\Debug\TreeSum.dll
+E:\Projects\Algorithms\HashTable\TreeSum\bin\Debug\TreeSum.pdb
+E:\Projects\Algorithms\HashTable\TreeSum\obj\Debug\TreeSum.dll
+E:\Projects\Algorithms\HashTable\TreeSum\obj\Debug\TreeSum.pdb
+E:\Projects\Algorithms\HashTable\TreeSum\obj\Debug\TreeSum.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\TreeSum\bin\Debug\TreeSum.dll
+C:\Stuff\HashTable\TreeSum\bin\Debug\TreeSum.pdb
+C:\Stuff\HashTable\TreeSum\obj\Debug\TreeSum.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\TreeSum\obj\Debug\TreeSum.dll
+C:\Stuff\HashTable\TreeSum\obj\Debug\TreeSum.pdb

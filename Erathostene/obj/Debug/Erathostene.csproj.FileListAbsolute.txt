@@ -1,0 +1,5 @@
+C:\Stuff\HashTable\Erathostene\bin\Debug\Erathostene.exe.config
+C:\Stuff\HashTable\Erathostene\bin\Debug\Erathostene.exe
+C:\Stuff\HashTable\Erathostene\bin\Debug\Erathostene.pdb
+C:\Stuff\HashTable\Erathostene\obj\Debug\Erathostene.exe
+C:\Stuff\HashTable\Erathostene\obj\Debug\Erathostene.pdb

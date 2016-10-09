@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\Heaps\bin\Debug\Heaps.exe.config
+E:\Projects\Algorithms\HashTable\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\Heaps\bin\Debug\Heaps.exe
+E:\Projects\Algorithms\HashTable\Heaps\bin\Debug\Heaps.pdb
+E:\Projects\Algorithms\HashTable\Heaps\obj\Debug\Heaps.exe
+E:\Projects\Algorithms\HashTable\Heaps\obj\Debug\Heaps.pdb
+C:\Stuff\HashTable\Heaps\bin\Debug\Heaps.exe.config
+C:\Stuff\HashTable\Heaps\bin\Debug\Heaps.exe
+C:\Stuff\HashTable\Heaps\bin\Debug\Heaps.pdb
+C:\Stuff\HashTable\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\Heaps\obj\Debug\Heaps.exe
+C:\Stuff\HashTable\Heaps\obj\Debug\Heaps.pdb

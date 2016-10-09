@@ -1,0 +1,12 @@
+E:\Projects\Algorithms\HashTable\Trie\bin\Debug\Trie.exe.config
+E:\Projects\Algorithms\HashTable\Trie\bin\Debug\Trie.exe
+E:\Projects\Algorithms\HashTable\Trie\bin\Debug\Trie.pdb
+E:\Projects\Algorithms\HashTable\Trie\obj\Debug\TrieImplementation.csprojResolveAssemblyReference.cache
+E:\Projects\Algorithms\HashTable\Trie\obj\Debug\Trie.exe
+E:\Projects\Algorithms\HashTable\Trie\obj\Debug\Trie.pdb
+C:\Stuff\HashTable\Trie\bin\Debug\Trie.exe.config
+C:\Stuff\HashTable\Trie\bin\Debug\Trie.exe
+C:\Stuff\HashTable\Trie\bin\Debug\Trie.pdb
+C:\Stuff\HashTable\Trie\obj\Debug\TrieImplementation.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\Trie\obj\Debug\Trie.exe
+C:\Stuff\HashTable\Trie\obj\Debug\Trie.pdb

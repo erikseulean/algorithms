@@ -1,0 +1,6 @@
+C:\Stuff\HashTable\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+C:\Stuff\HashTable\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+C:\Stuff\HashTable\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+C:\Stuff\HashTable\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+C:\Stuff\HashTable\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb
+C:\Stuff\HashTable\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\Projects\Algorithms\HashTable\Hanoi\bin\Debug\Hanoi.dll
+E:\Projects\Algorithms\HashTable\Hanoi\bin\Debug\Hanoi.pdb
+E:\Projects\Algorithms\HashTable\Hanoi\obj\Debug\Hanoi.dll
+E:\Projects\Algorithms\HashTable\Hanoi\obj\Debug\Hanoi.pdb
+C:\Stuff\HashTable\Hanoi\bin\Debug\Hanoi.dll
+C:\Stuff\HashTable\Hanoi\bin\Debug\Hanoi.pdb
+C:\Stuff\HashTable\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache
+C:\Stuff\HashTable\Hanoi\obj\Debug\Hanoi.dll
+C:\Stuff\HashTable\Hanoi\obj\Debug\Hanoi.pdb
